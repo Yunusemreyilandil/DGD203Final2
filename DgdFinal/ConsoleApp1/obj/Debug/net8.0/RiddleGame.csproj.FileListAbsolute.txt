@@ -1,0 +1,14 @@
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\bin\Debug\net8.0\RiddleGame.exe
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\bin\Debug\net8.0\RiddleGame.deps.json
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\bin\Debug\net8.0\RiddleGame.runtimeconfig.json
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\bin\Debug\net8.0\RiddleGame.dll
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\bin\Debug\net8.0\RiddleGame.pdb
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.AssemblyInfoInputs.cache
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.AssemblyInfo.cs
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.csproj.CoreCompileInputs.cache
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.dll
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\refint\RiddleGame.dll
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.pdb
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\RiddleGame.genruntimeconfig.cache
+C:\Users\taha-\OneDrive\Masaüstü\DgdFinal\ConsoleApp1\obj\Debug\net8.0\ref\RiddleGame.dll
